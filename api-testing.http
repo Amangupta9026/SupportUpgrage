@@ -1,0 +1,29 @@
+POST http://support.oprezoindia.com/api/search
+Content-Type: application/x-www-form-urlencoded
+
+serch_keywords=Katherine
+
+###
+
+GET http://support.oprezoindia.com/api/listners/ 
+
+
+###
+
+GET http://support.oprezoindia.com/api/show_wallet/63
+
+###
+
+POST http://support.oprezoindia.com/api/store_wallet 
+Content-Type: application/x-www-form-urlencoded
+
+user_id = 73
+mobile_no = 8058301863
+payment_id = ababasdfas
+order_id = sdfsdfsd
+signatre_id = sdfsdfasd
+amount = 10 
+
+###
+
+

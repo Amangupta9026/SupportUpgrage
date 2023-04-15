@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>766096269533-5nutema9ube154cschibpkg52bl4b3mh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.766096269533-5nutema9ube154cschibpkg52bl4b3mh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>766096269533-1l3b43ggb6bkhggj48tm0uj2dk66sr8v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBR2TkW3k5Ht349qJJEKmnwW8jQnA28KXY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>766096269533</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.support</string>
+	<key>PROJECT_ID</key>
+	<string>support-stress-free</string>
+	<key>STORAGE_BUCKET</key>
+	<string>support-stress-free.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:766096269533:ios:f83102d4acedba94f0bb34</string>
+	<key>DATABASE_URL</key>
+	<string>https://support-stress-free-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
